@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+# Sitemaps
+Sitemap: https://www.itender.am/sitemap.xml
